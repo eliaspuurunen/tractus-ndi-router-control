@@ -1,0 +1,26 @@
+{
+	"id": "tractus-ndi-router-control",
+	"name": "tractus-ndi-router-control",
+	"shortname": "tractus-ndi-router-control",
+	"description": "Companion module to control the Tractus Router for NDI application.",
+	"version": "0.0.0",
+	"license": "MIT",
+	"repository": "git+https://github.com/tractusevents/tractus-ndi-router-control.git",
+	"bugs": "https://github.com/tractusevents/tractus-ndi-router-control/issues",
+	"maintainers": [
+		{
+			"name": "Elias Puurunen",
+			"email": "elias@northernhci.ca"
+		}
+	],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../main.js"
+	},
+	"legacyIds": [],
+	"manufacturer": "Tractus Events",
+	"products": ["Tractus Router for NDI"],
+	"keywords": []
+}
