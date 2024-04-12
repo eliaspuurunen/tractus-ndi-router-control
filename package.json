@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tractusevents/tractus-ndi-router-control.git"
+		"url": "git+https://github.com/eliaspuurunen/tractus-ndi-router-control.git"
 	},
 	"dependencies": {
 		"@companion-module/base": "~1.7.0",

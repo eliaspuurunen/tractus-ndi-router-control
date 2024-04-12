@@ -5,8 +5,8 @@
 	"description": "Companion module to control the Tractus Router for NDI application.",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/tractusevents/tractus-ndi-router-control.git",
-	"bugs": "https://github.com/tractusevents/tractus-ndi-router-control/issues",
+	"repository": "git+https://github.com/eliaspuurunen/tractus-ndi-router-control.git",
+	"bugs": "https://github.com/eliaspuurunen/tractus-ndi-router-control/issues",
 	"maintainers": [
 		{
 			"name": "Elias Puurunen",
